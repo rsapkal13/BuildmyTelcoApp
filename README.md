@@ -1,2 +1,0 @@
-# BuildmyTelcoApp
-Building Test App
